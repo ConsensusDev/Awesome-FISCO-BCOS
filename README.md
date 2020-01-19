@@ -40,9 +40,9 @@ A Curated List of Awesome FISCO-BCOS Resources
 
 
 # 社区
-*[![公众号](https://github.com/FISCO-BCOS/FISCO-BCOS-DOC/blob/release-2/images/community/OfficialAccountsQR.jpg)]
+* [![公众号](/files/OfficialAccountsQR.jpg)]
 
 # 案例
-* 
+* [案例集合](/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
 # 其他文章
 * [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect)
