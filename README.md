@@ -27,6 +27,7 @@ A Curated List of Awesome FISCO-BCOS Resources
 * [WeIdentity](https://github.com/WeBankFinTech/WeIdentity) - 基于区块链的符合W3C DID和Verifiable Credential规范的分布式身份解决方案
 * [WeEvent](https://github.com/WeBankFinTech/WeEvent) - 基于区块链的事件驱动架构 
 * [WeDPR](https://fintech.webank.com/wedpr) - 即时可用场景式隐私保护高效解决方案,尚未开源，只给出白皮书
+* [WeCross](https://github.com/WeBankFinTech/WeCross) - 基于区块链的跨链协作平台
 
 # 工具
 * [区块链浏览器](https://github.com/FISCO-BCOS/fisco-bcos-browser) - FISCO-BCOS的区块链浏览器工具，支持快速搭建
@@ -38,7 +39,7 @@ A Curated List of Awesome FISCO-BCOS Resources
 * [Java](https://github.com/FISCO-BCOS/web3sdk) - 基于Java的链访问SDK
 * [Node.js](https://github.com/FISCO-BCOS/nodejs-sdk) - node.js的SDK
 * [Python](https://github.com/FISCO-BCOS/python-sdk) - Python语言的链访问SDK
-* [Go](https://github.com/FISCO-BCOS/go-sdk) - 项目暂时为空
+* [Go](https://github.com/FISCO-BCOS/go-sdk/tree/dev) - GO语言的链访问SDK
 
 ## 入门
 * [入门指南](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/tutorial/index.html) - 快速入门教程
