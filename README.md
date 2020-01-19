@@ -2,7 +2,7 @@
 A Curated List of Awesome FISCO-BCOS Resources
 
 # 目录
-- [基本资料](#官方资料)
+- [基本资料](#基本资料)
 - [核心项目](#核心项目)
 - [工具](#工具)
 - [开发](#开发)
@@ -14,13 +14,13 @@ A Curated List of Awesome FISCO-BCOS Resources
 - [其他](#其他)
 
 
-# 基本资源
+# 基本资料
 * [官网](http://www.fisco-bcos.org/) - 项目官网网站
 * [中文文档](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/) - 中文文档中心
 * [英文文档](https://fisco-bcos-documentation.readthedocs.io/en/latest/) - 英文文档中心
 * [白皮书](https://github.com/FISCO-BCOS/whitepaper) - 项目的白皮书
-- [fisco-bcos Github](https://github.com/FISCO-BCOS) - FISCO BCOS相关的开源项目
-- [WeBankFinTech GitHub](https://github.com/WeBankFinTech) - 微众其他金融科技相关的开源项目
+* [fisco-bcos Github](https://github.com/FISCO-BCOS) - FISCO BCOS相关的开源项目
+* [WeBankFinTech GitHub](https://github.com/WeBankFinTech) - 微众其他金融科技相关的开源项目
 
 # 核心项目
 * [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) - 联盟区块链底层技术平台
