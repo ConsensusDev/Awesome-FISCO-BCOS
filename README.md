@@ -41,16 +41,27 @@ A Curated List of Awesome FISCO-BCOS Resources
 * [Go](https://github.com/FISCO-BCOS/go-sdk) - 项目暂时为空
 
 ## 入门
+* [入门指南](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/tutorial/index.html) - 快速入门教程
+* [单机部署指导手册](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/installation.html) - 快速搭建开发环境
+* [智能合约开发说明](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/manual/smart_contract.html) - 基于Solidity的智能合约开发说明文档
+* [Solidity语言](https://solidity.readthedocs.io/en/latest/) - Solidty语言介绍
+* [Solidity语言示例](https://solidity.readthedocs.io/en/v0.4.25/solidity-by-example.html) - Solidty语言示例
 
-
-## Demo
-
+## 示例
+* [区块链存证案例](https://github.com/FISCO-BCOS/evidenceSample) - 区块链存证案例使用说明
+* []
 
 # 社区
-* [公众号] 
+* 公众号
 ![公众号](/files/OfficialAccountsQR.jpg)
+* 开源小助手微信
+![开源小助手微信](/files/WeChatQR.jpg)
+* 共识区块链技术社区
+![共识区块链技术社区](/files/ConsensusDev.jpg)
 
 # 案例
 * [案例集合](/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
-# 其他文章
+
+# 其他
 * [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect) - 官方公众号的精选技术文章
+* [常见问题](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/faq.html) - 常见问题索引
