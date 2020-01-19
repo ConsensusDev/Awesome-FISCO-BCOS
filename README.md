@@ -2,12 +2,19 @@
 A Curated List of Awesome FISCO-BCOS Resources
 
 # Contents
-- [官方资料](#官方资料)
+- [基本资料](#官方资料)
 - [核心项目](#核心项目)
+- [工具](#工具)
+- [开发](#开发)
+    - [SDK](#SDK)
+    - [入门](#入门)
+    - [示例](#示例)
+- [社区](#社区)
+- [案例](#案例)
+- [其他](#其他)
 
 
-
-# 官方资源
+# 基本资源
 * [官网](http://www.fisco-bcos.org/) - 项目官网网站
 * [中文文档](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/) - 中文文档中心
 * [英文文档](https://fisco-bcos-documentation.readthedocs.io/en/latest/) - 英文文档中心
@@ -40,9 +47,10 @@ A Curated List of Awesome FISCO-BCOS Resources
 
 
 # 社区
-* [![公众号](/files/OfficialAccountsQR.jpg)]
+* [公众号] 
+![公众号](/files/OfficialAccountsQR.jpg)
 
 # 案例
 * [案例集合](/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
 # 其他文章
-* [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect)
+* [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect) - 官方公众号的精选技术文章
