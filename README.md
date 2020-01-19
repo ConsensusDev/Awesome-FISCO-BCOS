@@ -1,7 +1,7 @@
 # Awesome FISCO-BCOS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)<!-- omit in toc --> 
 A Curated List of Awesome FISCO-BCOS Resources
 
-# Contents
+# 目录
 - [基本资料](#官方资料)
 - [核心项目](#核心项目)
 - [工具](#工具)
@@ -52,17 +52,25 @@ A Curated List of Awesome FISCO-BCOS Resources
 
 
 # 社区
-* 公众号  
-![公众号](/files/OfficialAccountsQR.jpg)
-* 开源小助手微信  
-![开源小助手微信](/files/WeChatQR.jpg)
+* Fisco-BCOS公众号  
+![公众号](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/OfficialAccountsQR.jpg)
+* Fisco-BCOS开源小助手微信  
+![开源小助手微信](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/WeChatQR.jpg)
 * 共识区块链技术社区  
-![共识区块链技术社区](/files/ConsensusDev.jpg)
+![共识区块链技术社区](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/ConsensusDev.jpg)
 
 # 案例
-* [案例集合](/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
+* [案例集合](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
 
 # 其他
 * [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect) - 官方公众号的精选技术文章
 * [常见问题](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/faq.html) - 常见问题索引
 * [WeDRP白皮书](/files/微众银行区块链WeDPR隐私保护白皮书.pdf) - 隐私保护的概念论述的非常棒。
+
+
+## 贡献<!-- omit in toc --> 
+欢迎大家提供其他跟Fisco-BCOS相关的资源
+可以直接提交Pull Request  
+也可以联系我:
+* 微信  
+![Reed的WeChat](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/reed.jpg)
